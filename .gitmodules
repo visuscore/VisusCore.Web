@@ -1,0 +1,46 @@
+[submodule "src/Modules/VisusCore.Configuration"]
+	path = src/Modules/VisusCore.Configuration
+	url = https://github.com/visuscore/VisusCore.Configuration.git
+[submodule "src/Modules/VisusCore.TenantHostedService"]
+	path = src/Modules/VisusCore.TenantHostedService
+	url = https://github.com/visuscore/VisusCore.TenantHostedService.git
+[submodule "src/Libraries/VisusCore.AidStack"]
+	path = src/Libraries/VisusCore.AidStack
+	url = https://github.com/visuscore/VisusCore.AidStack.git
+[submodule "src/Modules/VisusCore.Devices"]
+	path = src/Modules/VisusCore.Devices
+	url = https://github.com/visuscore/VisusCore.Devices.git
+[submodule "src/Modules/VisusCore.Devices.Onvif"]
+	path = src/Modules/VisusCore.Devices.Onvif
+	url = https://github.com/visuscore/VisusCore.Devices.Onvif.git
+[submodule "src/Libraries/VisusCore.Native"]
+	path = src/Libraries/VisusCore.Native
+	url = https://github.com/visuscore/VisusCore.Native.git
+[submodule "src/Modules/VisusCore.Devices.Rtsp"]
+	path = src/Modules/VisusCore.Devices.Rtsp
+	url = https://github.com/visuscore/VisusCore.Devices.Rtsp.git
+[submodule "src/Libraries/VisusCore.FileDB"]
+	path = src/Libraries/VisusCore.FileDB
+	url = https://github.com/visuscore/VisusCore.FileDB.git
+[submodule "src/Modules/VisusCore.Storage"]
+	path = src/Modules/VisusCore.Storage
+	url = https://github.com/visuscore/VisusCore.Storage.git
+[submodule "src/Modules/VisusCore.Consumer"]
+	path = src/Modules/VisusCore.Consumer
+	url = https://github.com/visuscore/VisusCore.Consumer.git
+[submodule "src/Modules/VisusCore.Ffmpeg"]
+	path = src/Modules/VisusCore.Ffmpeg
+	url = https://github.com/visuscore/VisusCore.Ffmpeg.git
+[submodule "src/Modules/VisusCore.EventBus"]
+	path = src/Modules/VisusCore.EventBus
+	url = https://github.com/visuscore/VisusCore.EventBus.git
+[submodule "src/Libraries/Tingle.EventBus"]
+	path = src/Libraries/Tingle.EventBus
+	url = https://github.com/visuscore/Tingle.EventBus.git
+[submodule "src/Modules/VisusCore.Playback"]
+	path = src/Modules/VisusCore.Playback
+	url = https://github.com/visuscore/VisusCore.Playback.git
+[submodule "src/Modules/VisusCore.SignalR"]
+	path = src/Modules/VisusCore.SignalR
+	url = https://github.com/visuscore/VisusCore.SignalR.git
+
