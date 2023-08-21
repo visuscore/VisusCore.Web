@@ -88,15 +88,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.SignalR.Samples",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{17085897-08A4-440E-A579-DEE64ADFB844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisusCore.Playback.Image", "src\Modules\VisusCore.Playback\VisusCore.Playback.Image\VisusCore.Playback.Image.csproj", "{8589A24B-76C3-455C-8001-9E4F0F752EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.Playback.Image", "src\Modules\VisusCore.Playback\VisusCore.Playback.Image\VisusCore.Playback.Image.csproj", "{8589A24B-76C3-455C-8001-9E4F0F752EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisusCore.Playback", "src\Modules\VisusCore.Playback\VisusCore.Playback\VisusCore.Playback.csproj", "{7B7677C2-4C15-4120-BBEA-B86F899FEBC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.Playback", "src\Modules\VisusCore.Playback\VisusCore.Playback\VisusCore.Playback.csproj", "{7B7677C2-4C15-4120-BBEA-B86F899FEBC1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.Configuration.VideoStream", "src\Modules\VisusCore.Configuration\VisusCore.Configuration.VideoStream\VisusCore.Configuration.VideoStream.csproj", "{724748CE-4B3A-483D-902B-15194674765E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisusCore.Configuration.VideoStream.Core", "src\Modules\VisusCore.Configuration\VisusCore.Configuration.VideoStream.Core\VisusCore.Configuration.VideoStream.Core.csproj", "{2834A3ED-B55A-46C2-B183-E1299B873BB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.Configuration.VideoStream.Core", "src\Modules\VisusCore.Configuration\VisusCore.Configuration.VideoStream.Core\VisusCore.Configuration.VideoStream.Core.csproj", "{2834A3ED-B55A-46C2-B183-E1299B873BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisusCore.Playback.Samples", "src\Modules\VisusCore.Playback\VisusCore.Playback.Samples\VisusCore.Playback.Samples.csproj", "{60713BB9-1715-473F-BAA1-792C543EAB21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.Playback.Samples", "src\Modules\VisusCore.Playback\VisusCore.Playback.Samples\VisusCore.Playback.Samples.csproj", "{60713BB9-1715-473F-BAA1-792C543EAB21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisusCore.ControlRoomTheme", "src\Themes\VisusCore.ControlRoomTheme\VisusCore.ControlRoomTheme.csproj", "{27231350-D521-4258-807A-90E5D34E2519}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -252,6 +254,10 @@ Global
 		{60713BB9-1715-473F-BAA1-792C543EAB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60713BB9-1715-473F-BAA1-792C543EAB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60713BB9-1715-473F-BAA1-792C543EAB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27231350-D521-4258-807A-90E5D34E2519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27231350-D521-4258-807A-90E5D34E2519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27231350-D521-4258-807A-90E5D34E2519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27231350-D521-4258-807A-90E5D34E2519}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -299,6 +305,7 @@ Global
 		{724748CE-4B3A-483D-902B-15194674765E} = {769A5AC3-EE2A-4B0D-9F44-1B57DBB5AAAD}
 		{2834A3ED-B55A-46C2-B183-E1299B873BB9} = {B2DF2BB4-077B-4BA1-B6B1-699F9054E0BD}
 		{60713BB9-1715-473F-BAA1-792C543EAB21} = {769A5AC3-EE2A-4B0D-9F44-1B57DBB5AAAD}
+		{27231350-D521-4258-807A-90E5D34E2519} = {B160B434-7575-4BEA-BC71-86A7FF0E57B0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {34DFC6BC-6C55-4A20-9C27-9C476F7116C4}

@@ -44,3 +44,6 @@
 	path = src/Modules/VisusCore.SignalR
 	url = https://github.com/visuscore/VisusCore.SignalR.git
 
+[submodule "src/Themes"]
+	path = src/Themes
+	url = https://github.com/visuscore/VisusCore.Themes.git

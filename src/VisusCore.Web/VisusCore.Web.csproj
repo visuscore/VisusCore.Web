@@ -20,6 +20,7 @@
     <ProjectReference Include="..\Modules\VisusCore.Storage\VisusCore.Storage.Disk\VisusCore.Storage.Disk.csproj" />
     <ProjectReference Include="..\Modules\VisusCore.TenantHostedService\VisusCore.TenantHostedService.Samples\VisusCore.TenantHostedService.Samples.csproj" />
     <ProjectReference Include="..\Modules\VisusCore.TenantHostedService\VisusCore.TenantHostedService\VisusCore.TenantHostedService.csproj" />
+    <ProjectReference Include="..\Themes\VisusCore.ControlRoomTheme\VisusCore.ControlRoomTheme.csproj" />
   </ItemGroup>
 
 </Project>
