@@ -47,3 +47,6 @@
 [submodule "src/Themes"]
 	path = src/Themes
 	url = https://github.com/visuscore/VisusCore.Themes.git
+[submodule "src/Modules/VisusCore.MediaHub"]
+	path = src/Modules/VisusCore.MediaHub
+	url = https://github.com/visuscore/VisusCore.MediaHub.git

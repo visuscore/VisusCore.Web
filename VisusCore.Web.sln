@@ -98,7 +98,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.Configuration.Vid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.Playback.Samples", "src\Modules\VisusCore.Playback\VisusCore.Playback.Samples\VisusCore.Playback.Samples.csproj", "{60713BB9-1715-473F-BAA1-792C543EAB21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisusCore.ControlRoomTheme", "src\Themes\VisusCore.ControlRoomTheme\VisusCore.ControlRoomTheme.csproj", "{27231350-D521-4258-807A-90E5D34E2519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisusCore.ControlRoomTheme", "src\Themes\VisusCore.ControlRoomTheme\VisusCore.ControlRoomTheme.csproj", "{27231350-D521-4258-807A-90E5D34E2519}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
